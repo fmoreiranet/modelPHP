@@ -1,2 +1,3 @@
 # modelPHP
-modelo de site em PHP com PDO
+modelo de site em PHP
+
